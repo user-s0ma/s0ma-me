@@ -1,0 +1,26 @@
+{
+  "name": "s0ma.me",
+  "version": "1.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "next dev",
+    "start": "next start",
+    "build": "next build"
+  },
+  "dependencies": {
+    "next": "^14.1.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.167.1"
+  },
+  "devDependencies": {
+    "@cloudflare/next-on-pages": "^1.11.0",
+    "@types/react": "18.3.4",
+    "@types/three": "^0.167.2",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3",
+    "typescript": "^5.5.4"
+  }
+}
